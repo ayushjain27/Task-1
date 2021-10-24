@@ -11,7 +11,7 @@
 .background {
   position: absolute;
   content: " ";
-  background-image: url("./img/Black\ Rectangle.svg");
+  background-image: url("Black\ Rectangle.svg");
   height: 1240px;
   z-index: -1;
 }
@@ -329,7 +329,7 @@ height: 51px;
 .black-1{
   position: absolute;
   content: " ";
-  background-image: url(./img/Black\ Rectangle.svg);
+  background-image: url(Black\ Rectangle.svg);
   width: 1350px;
   height: 750px;
   z-index: -1;
@@ -583,7 +583,7 @@ height: 74px;
 .footer{
   position: absolute;
     content: " ";
-    background-image: url(./img/Black\ Rectangle.svg);
+    background-image: url(Black\ Rectangle.svg);
     width: 1350px;
     height: 500px;
     z-index: -1;
