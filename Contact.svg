@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="23" viewBox="0 0 210 23">
+  <g id="Contact" transform="translate(0 -0.4)">
+    <g id="Shapes" transform="translate(0 2.4)">
+      <path id="Vector" d="M0,16.8V0H44.4V16.8Z" transform="translate(15.6)" fill="#cf268a"/>
+      <path id="Vector-2" data-name="Vector" d="M0,16.8V0H15.6V16.8Z" fill="#5cb5d1"/>
+    </g>
+    <g id="Contact-2" data-name="Contact" transform="translate(69.6)">
+      <text id="Contact_Us" data-name="Contact Us" transform="translate(0.4 0.4)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="17">Contact Us</tspan></text>
+      <path id="Icon" d="M0,0H24" transform="translate(116.4 10.8)" fill="#232536" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
