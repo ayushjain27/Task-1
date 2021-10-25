@@ -677,3 +677,682 @@ left: 665px;
 width: 237px;
 height: 23px;
 }
+
+@media screen and (min-width: 1400px) {
+  * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  /* body {
+      background: rgb(20, 20, 20);
+    } */
+  
+  .background {
+    position: absolute;
+    content: " ";
+    background-image: url("./img/Black\ Rectangle.svg");
+    height: 1240px;
+    z-index: -1;
+  }
+  
+  .nav {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 115px;
+  }
+  
+  .niit {
+    position: absolute;
+    top: 22px;
+    left: 192px;
+    width: 68px;
+    height: 68px;
+  }
+  
+  .line {
+    position: absolute;
+    top: 22px;
+    left: 269px;
+    width: 6px;
+    height: 66px;
+  }
+  
+  .infinity {
+    position: absolute;
+    top: 29px;
+    left: 278px;
+    width: 78px;
+    height: 39px;
+  }
+  
+  .infinityname {
+    position: absolute;
+    top: 71px;
+    left: 281px;
+    width: 73px;
+    height: 10px;
+  }
+  
+  .Home {
+    position: absolute;
+    top: 46px;
+    left: 883px;
+    width: 48px;
+    height: 23px;
+  }
+  
+  .IndustryApplication {
+    position: absolute;
+    top: 46px;
+    left: 977px;
+    width: 168px;
+    height: 23px;
+  }
+  
+  .OurWork {
+    position: absolute;
+    top: 46px;
+    left: 1191px;
+    width: 73px;
+    height: 23px;
+  }
+  
+  .OurTechnology {
+    position: absolute;
+    top: 46px;
+    left: 1310px;
+    width: 129px;
+    height: 23px;
+  }
+  
+  .Insights {
+    position: absolute;
+    top: 46px;
+    left: 1482px;
+    width: 62px;
+    height: 23px;
+  }
+  
+  .GetInTouch {
+    position: absolute;
+    top: 31px;
+    left: 1579px;
+    width: 139px;
+    height: 54px;
+  }
+  
+  .dotbar {
+    position: absolute;
+    top: 22px;
+    left: 1560px;
+    width: 122px;
+    height: 185px;
+    z-index: -1;
+  }
+  
+  .firstPara {
+    position: absolute;
+    top: 293px;
+    left: 192px;
+    width: 662px;
+    height: 150px;
+  }
+  
+  .secondPara {
+    position: absolute;
+    top: 467px;
+    left: 194px;
+    width: 662px;
+    height: 213px;
+  }
+  
+  .youtube {
+    position: absolute;
+    top: 258px;
+    left: 1010px;
+    width: 727px;
+    height: 457px;
+  }
+  
+  .youtubepic {
+    position: absolute;
+    top: 370px;
+    left: 1170px;
+    width: 400px;
+    height: 230px;
+  }
+  
+  .repeatgrid44 {
+    position: absolute;
+    top: 786px;
+    left: 667px;
+    width: 587px;
+    height: 51px;
+  }
+  
+  .Rectangle2658 {
+   position: absolute;
+   top: 882px;
+   left: 179px;
+    width: 297px;
+    height: 317px;
+    /* transform: matrix(0, 1, -1, 0, 0, 0); */
+  }
+  
+  .customerservice {
+    position: absolute;
+    top: 905px;
+    left: 204px;
+    width: 112px;
+    height: 67px;
+  }
+  
+  .text {
+    position: absolute;
+    top: 995px;
+    left: 204px;
+    width: 244px;
+    height: 180px;
+  }
+  
+  .Rectangle26581 {
+    position: absolute;
+    top: 882px;
+    left: 502px;
+    width: 297px;
+    height: 317px;
+    /* transform: matrix(0, 1, -1, 0, 0, 0); */
+  }
+  
+  .customerservice1 {
+    position: absolute;
+    top: 905px;
+    left: 520px;
+    width: 156px;
+    height: 99px;
+  }
+  
+  .text1 {
+    position: absolute;
+    top: 995px;
+    left: 520px;
+    width: 244px;
+    height: 180px;
+  }
+  
+  .Rectangle26582 {
+    position: absolute;
+    top: 882px;
+    left: 818px;
+    width: 297px;
+    height: 317px;
+    /* transform: matrix(0, 1, -1, 0, 0, 0); */
+  }
+  
+  .customerservice2 {
+    position: absolute;
+    top: 905px;
+    left: 839px;
+    width: 139px;
+    height: 67px;
+  }
+  
+  .text2 {
+    position: absolute;
+    top: 995px;
+    left: 838px;
+    width: 244px;
+    height: 180px;
+  }
+  
+  .Rectangle26583 {
+    position: absolute;
+    top: 882px;
+    left: 1132px;
+  width: 297px;
+  height: 317px;
+  /* transform: matrix(0, 1, -1, 0, 0, 0); */
+  }
+  
+  .customerservice3 {
+    position: absolute;
+    top: 905px;
+    left: 1158px;
+    width: 209px;
+    height: 67px;
+  }
+  
+  .text3 {
+    position: absolute;
+    top: 995px;
+    left: 1159px;
+    width: 244px;
+    height: 180px;
+  }
+  
+  .Rectangle26584 {
+    position: absolute;
+    top: 882px;
+    left: 1445px;
+    width: 297px;
+    height: 317px;
+    /* transform: matrix(0, 1, -1, 0, 0, 0); */
+  }
+  
+  .customerservice4 {
+    position: absolute;
+    top: 905px;
+    left: 1471px;
+    width: 209px;
+    height: 67px;
+  }
+  
+  .text4 {
+    position: absolute;
+    top: 995px;
+    left: 1472px;
+    width: 244px;
+    height: 180px;
+  }
+  
+  .repeatgrid46 {
+    position: absolute;
+    top: 1340px;
+    left: 667px;
+    width: 587px;
+    height: 51px;
+  }
+  
+  .repeatgrid51 {
+    position: absolute;
+    top: 1400px;
+    left: 12px;
+    width: 1908px;
+    height: 714px;
+  }
+  
+  .laptop {
+    position: absolute;
+    top: 1450px;
+    left: 140px;
+    width: 986px;
+    height: 519px;
+  }
+  
+  .para {
+    position: absolute;
+    top: 1480px;
+    left: 1228px;
+    width: 587px;
+    height: 298px;
+  }
+  
+  .button {
+    position: absolute;
+    top: 1810px;
+    left: 1228px;
+    width: 312px;
+    height: 74px;
+  }
+  
+  .repeatgrid48 {
+    position: absolute;
+    top: 2060px;
+    left: 667px;
+    width: 587px;
+    height: 51px;
+  }
+  
+  .black-1 {
+    position: absolute;
+    content: " ";
+    background-image: url(./img/Black\ Rectangle.svg);
+    width: 1920px;
+    height: 750px;
+    z-index: -1;
+    top: 2185px;
+  }
+  
+  .Rectangle26585 {
+    position: absolute;
+    top: 78px;
+    left: 303px;
+    width: 609px;
+    height: 315px;
+    transform: matrix(0, 1, -2, 0, 0, 0);
+  }
+  
+  .case {
+    position: absolute;
+    top: 95px;
+    left: 322px;
+    width: 406px;
+    height: 89px;
+  }
+  
+  .info {
+    position: absolute;
+    top: 190px;
+    left: 272px;
+    width: 785px;
+    height: 209px;
+  }
+  
+  .Rectangle26586 {
+    position: absolute;
+    top: 78px;
+    left: 1005px;
+    width: 609px;
+    height: 315px;
+    transform: matrix(0, 1, -2, 0, 0, 0);
+  }
+  
+  .case1 {
+    position: absolute;
+    top: 95px;
+    left: 1050px;
+    width: 406px;
+    height: 89px;
+  }
+  
+  .info2 {
+    position: absolute;
+    top: 190px;
+    left: 930px;
+    width: 785px;
+    height: 209px;
+  }
+  
+  .Rectangle26587 {
+    position: absolute;
+    top: 400px;
+    left: 303px;
+    width: 609px;
+    height: 315px;
+    transform: matrix(0, 1, -2, 0, 0, 0);
+  }
+  
+  .case2 {
+    position: absolute;
+    top: 415px;
+    left: 322px;
+    width: 430px;
+    height: 125px;
+  }
+  
+  .info1 {
+    position: absolute;
+    top: 500px;
+    left: 230px;
+    width: 785px;
+    height: 209px;
+  }
+  
+  .Rectangle26588 {
+    position: absolute;
+    top: 400px;
+    left: 1005px;
+    width: 609px;
+    height: 315px;
+    transform: matrix(0, 1, -2, 0, 0, 0);
+  }
+  
+  .case3 {
+    position: absolute;
+    top: 420px;
+    left: 1050px;
+    width: 406px;
+    height: 89px;
+  }
+  
+  .info3 {
+    position: absolute;
+    top: 500px;
+    left: 990px;
+    width: 785px;
+    height: 209px;
+  }
+  
+  /* .repatgrid50{
+      position: absolute;
+      top: 100px;
+    left: 0px;
+    width: 587px;
+    height: 51px;
+    }
+    
+    .repeatgrid501{
+      position: absolute;
+      top: 100px;
+    left: 1679px;
+    width: 587px;
+    height: 51px;
+    } */
+  
+  .era {
+    position: absolute;
+    top: 2990px;
+    left: 481px;
+    width: 958px;
+    height: 168px;
+  }
+  
+  .request {
+    position: absolute;
+    top: 3160px;
+    left: 617px;
+    width: 686px;
+    height: 49px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 0px;
+    color: #131313;
+  }
+  
+  .repeatgrid52 {
+    position: absolute;
+    top: 3180px;
+    left: 100px;
+    width: 350px;
+    height: 500px;
+  }
+  
+  .repeatgrid53 {
+    position: absolute;
+    top: 3180px;
+    left: 1440px;
+    width: 350px;
+    height: 500px;
+  }
+  
+  .repeatgrid511 {
+    position: absolute;
+    top: 3005px;
+    left: 6px;
+    width: 1908px;
+    height: 714px;
+  }
+  
+  .name {
+    display: flex;
+  }
+  
+  .firstname {
+    position: absolute;
+    top: 3250px;
+    left: 454px;
+  width: 486px;
+  height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .lastname {
+    position: absolute;
+    top: 3250px;
+    left: 970px;
+    width: 469px;
+    height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .company {
+    position: absolute;
+    top: 3340px;
+    left: 454px;
+    width: 486px;
+    height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .jobtitle {
+    position: absolute;
+    top: 3340px;
+    left: 970px;
+    width: 469px;
+    height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .workemail {
+    position: absolute;
+    top: 3430px;
+    left: 454px;
+    width: 486px;
+    height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .businessphone {
+    position: absolute;
+    top: 3430px;
+    left: 970px;
+    width: 469px;
+    height: 74px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .tell {
+    position: absolute;
+    top: 3520px;
+    left: 454px;
+    width: 985px;
+    height: 167px;
+    border: 2px solid #F86379;
+    border-radius: 6px;
+  }
+  
+  .requestademo {
+    position: absolute;
+    top: 3720px;
+    left: 1161px;
+    width: 278px;
+    height: 74px;
+  }
+  
+  .footer {
+    position: absolute;
+    content: " ";
+    background-image: url(./img/Black\ Rectangle.svg);
+    width: 1920px;
+    height: 500px;
+    z-index: -1;
+    top: 3880px;
+  }
+  
+  .niit1 {
+    position: absolute;
+    top: 90px;
+    left: 80px;
+    width: 329px;
+    height: 107px;
+  }
+  
+  .line1 {
+    position: absolute;
+    top: 105px;
+    left: 302px;
+    width: 6px;
+    height: 78px;
+  }
+  
+  .infinity1 {
+    position: absolute;
+    top: 90px;
+    left: 332px;
+    width: 149px;
+    height: 67px;
+  }
+  
+  .infinityname1 {
+    position: absolute;
+    top: 140px;
+    left: 332px;
+    width: 149px;
+    height: 67px;
+  }
+  
+  .niitinfinity {
+    position: absolute;
+    top: 200px;
+    left: 192px;
+    width: 423px;
+    height: 157px;
+  }
+  
+  .link {
+    position: absolute;
+    top: 90px;
+    left: 810px;
+    width: 292px;
+    height: 269px;
+  }
+  
+  .link1 {
+    position: absolute;
+    top: 90px;
+    left: 1153px;
+    width: 293px;
+    height: 270px;
+  }
+  
+  .contact {
+    position: absolute;
+    top: 90px;
+    left: 1459px;
+    width: 210px;
+    height: 22px;
+  }
+  
+  .media {
+    position: absolute;
+    top: 140px;
+    left: 1459px;
+    width: 174px;
+    height: 29px;
+  }
+  
+  .path {
+    position: absolute;
+    top: 447px;
+    left: 0px;
+    width: 1920px;
+    height: 57px;
+  }
+  
+  .copyright {
+    position: absolute;
+    top: 465px;
+    left: 842px;
+    width: 237px;
+    height: 23px;
